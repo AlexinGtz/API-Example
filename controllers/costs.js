@@ -3,7 +3,7 @@ const members = require('../mocks/members.json');
 exports.calculateCosts = async (req, res) => {
     let { rentCost } = req.body;
     
-    members.members.forEach((member) => {
+    members.forEach((member) => {
         if(member.principal){
             rentCost += 300
         }else{

@@ -1,22 +1,20 @@
-{
-    "members": [
-        {
-            "id": 1,
-            "name": "Luis Urias",
-            "instrument": "Guitar",
-            "principal": false
-        },
-        {
-            "id": 2,
-            "name": "Alex Gutierrez",
-            "instrument": "Cello",
-            "principal": true
-        },
-        {
-            "id": 3,
-            "name": "Lucia Garcia",
-            "instrument": "Cello",
-            "principal": false
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "name": "Luis Urias",
+        "instrument": "Guitar",
+        "principal": false
+    },
+    {
+        "id": 2,
+        "name": "Alex Gutierrez",
+        "instrument": "Cello",
+        "principal": true
+    },
+    {
+        "id": 3,
+        "name": "Lucia Garcia",
+        "instrument": "Cello",
+        "principal": false
+    }
+]
