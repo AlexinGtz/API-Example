@@ -12,6 +12,8 @@ git push // Sube los cambios a la nube
 git push --set-upstream origin {nombre-rama} //Sube la rama a la nube
 git fetch //Checa si hay actualizaciones en la nube
 git pull //Descarga esas actualizaciones
+git stash //Guarda tus cambios en la cache
+git stash pop //Devuelve los cambios guardados
 
 NPM
 npm init //Inicia el proyecto
