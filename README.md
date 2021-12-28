@@ -7,6 +7,7 @@ git checkout -b {nombre-rama} //Te cambia a una nueva rama con todos los cambios
 git status //Te da el estatus de los archivos de tu repo
 git add {nombre-archivo} //Aniade el archivo a git
 git commit -m "{mensaje}" //guarda localmente en Git los archivos
+git switch {nombre-rama} // cambia entre ramas
 
 NPM
 npm init //Inicia el proyecto
