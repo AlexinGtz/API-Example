@@ -1,0 +1,24 @@
+{
+  "name": "api-example",
+  "version": "0.0.1",
+  "description": "Example API to Teach",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"testing\"",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexinGtz/API-Example.git"
+  },
+  "author": "Alex Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexinGtz/API-Example/issues"
+  },
+  "homepage": "https://github.com/AlexinGtz/API-Example#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
